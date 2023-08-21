@@ -16,7 +16,7 @@
             <h2>Login</h2>
         </section>
         <section class="sectionTwo">
-            <form action="./views/profile.php" method="post" class="formulario">
+            <form action="../views/profile.php" method="post" class="formulario">
                 <div class="containerInput">
                     <div class="contenedorImagen"><img src="/image/envelope-fill.svg" alt="imagen"></div>
                     <input type="text" placeholder="Email" name="email">
