@@ -17,14 +17,14 @@
             <h3>Master web development by making real-life projects. There are multiple paths for you to choose</h3>
         </section>
         <section class="sectionTwo">
-            <form action="./views/profile.php" method="post" class="formulario">
+            <form action="./database/create_user.php" method="post" class="formulario">
                 <div class="containerInput">
                     <div class="contenedorImagen"><img src="/image/envelope-fill.svg" alt="imagen"></div>
                     <input type="text" placeholder="Email" name="email">
                 </div>
                 <div class="containerInput">
                     <div class="contenedorImagen"><img src="/image/lock.svg" alt="imagen"></div>
-                    <input type="text" placeholder="Password" name="pwd">
+                    <input type="text" placeholder="Password" name="passwrd">
                 </div>
                 <button type="submit">Start coding now</button>
             </form>

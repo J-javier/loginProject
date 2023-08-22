@@ -73,7 +73,7 @@
                     <div id="dropdownContent" class="dropdown-content">
                         <a href="#">Perfil</a>
                         <a href="#">Chat Group</a>
-                        <a href="#">Log Out</a>
+                        <a href="../database/logout.php">Log Out</a>
                     </div>
                 </div>
             </div>

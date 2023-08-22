@@ -33,6 +33,11 @@
                         <h4>PHOTO</h4>
                         <div class="contenedorImagen"><img src="#" alt="-"></div>
                     </div>
+                    <?php 
+                       /*  require_once("./database/conection.php"); */
+                        $query = "select * from user";
+                        /* $stmt = $p; */
+                    ?>
                     <div class="containerInformation">
                         <h4>NAME</h4>
                         <p>XANTHE NEAL</p>                        
